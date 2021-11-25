@@ -1,8 +1,9 @@
 # depslib dependency file v1.0
-1636913228 source:c:\users\user\desktop\rocket_game\main.cpp
-	<cstdio>
+1635670881 source:c:\users\user\desktop\bonus task\main.cpp
+	<iostream>
 	<GL/gl.h>
 	<GL/glut.h>
+	<cmath>
 
 1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
 
@@ -218,9 +219,4 @@
 1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
 	<stddef.h>
 	<GL/gl.h>
-
-1636913228 source:c:\users\user\desktop\cg2\computer-graphics\rocket_game\main.cpp
-	<cstdio>
-	<GL/gl.h>
-	<GL/glut.h>
 
